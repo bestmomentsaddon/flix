@@ -1,4 +1,94 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYTY3Mzg3ZTItODIzZC00MmNhLWIyZjUtMzg2ODhmZTBhNGFkXkEyXkFqcGdeQXVyOTMzOTMzMTg%40._V1_FMjpg_UX1000_-337x500.jpg" , Among the Living (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:9CA37C7BD06D2E1F1B38E07A764BE5AD4D9A2D26&dn=Among.the.Living.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BMmE2ZTk4NDEtOTJlNi00NWZlLTkzYmYtZWZjNTYwZmY2ZWVmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_-337x500.jpg" , Medieval (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:6A6FD0D9954F34FA305C2FD151B006D76006EF74&dn=Medieval.2022.720p.CAMRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/playuri?uri=
