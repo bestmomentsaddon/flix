@@ -2,25 +2,85 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] TV [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] AÇAO [/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
 <externallink>#</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] AVENTURA [/COLOR][/B]</name>
 <thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
 <externallink>#</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] SERIES [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] ANIMAÇAO [/COLOR][/B]</name>
 <thumbnail>https://goo.gl/NHRvpX</thumbnail>
 <externallink>#</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] CARTOONS [/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] COMEDIA [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] CRIME [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] DRAMA [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FAMILIA [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FICÇAO [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] GUERRA [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] MISTERIO [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] NACIONAL [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] ROMANCE [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] SUSPENSE [/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] TERROR [/COLOR][/B]</name>
 <thumbnail>https://goo.gl/NHRvpX</thumbnail>
 <externallink>#</externallink>
 </channel>
