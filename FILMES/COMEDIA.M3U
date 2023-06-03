@@ -1,4 +1,151 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BODlhMjMwNGMtYWZmZS00NjVjLWE3YmEtZWQxYjc0MWE5NDdjXkEyXkFqcGdeQXVyMTMyNzk3Mzgx._V1_FMjpg_UX1000_-337x500.jpg" , The Root of Perfection (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:B3ED76085465890F58B37F3BC1148FEBEBB57415&dn=The.Root.of.Perfection.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce      
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/poster-780-337x500.jpg" , The Kiwi (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:85B58CEF82AED528704E6D8BC8A2692679BE491E&dn=The.Kiwi.2022.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BNGUzZmU1YzktNTkxOS00ZTI0LTljNmQtMTIxNTliY2I5NDFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_-337x500.jpg" , Confess Fletch (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:5E8D4B1B754167730E426A59F2AD6EC1256A80CE&dn=Confess.Fletch.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BYWY0MTg2NDctMTkxNC00ZmVhLWI0ZTUtNmVmYjllZDEyODJjXkEyXkFqcGdeQXVyMTQ2OTU2OTQ%40._V1_-337x500.jpg" , Zombae (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:6F3E06A74544B2F6741AA3F0716CFF6F353C83A0&dn=Zombae.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/tiny-cinema-poster-337x500.jpg" , Tiny Cinema (2022)
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:8FDC9A1314681924D1179A3A9EDFCAA29D178060&dn=Tiny.Cinema.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/MV5BZWQ4ZjIwNmYtMTQ1YS00NWRkLWE5MjktMGI4Yjc0ODVlZTg3XkEyXkFqcGdeQXVyMTM1Njg2NTkz._V1_-337x500.jpg" , It Hatched (2021) 
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:D4ACD51B1108EBDEDDD6B57CA06F939DD6C673A8&dn=It.Hatched.2021.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+#EXTINF:-1 tvg-logo="https://filmebaixar.top/image/cache/catalog/poster/Loin_du_periph-337x500.jpg" , The Takedown
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:D0CCCC70E4C1248EC4257A82CDE8D948F2AABFC3&dn=The.Takedown.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
+#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
+plugin://plugin.video.elementum/playuri?uri=
+
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/playuri?uri=
