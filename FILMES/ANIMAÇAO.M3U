@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/playuri?uri=
+#EXTINF:-1 tvg-logo="https://ondebaixofilmes.me/wp-content/uploads/2023/01/Download-Legiao-dos-Super-Herois-Torrent-2023-BluRay-720p1080p-Legendado.jpg" , Legião dos Super-Heróis
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:50a85ca587a1fe616d53bf51dc5c5410ddffa867&dn=Legion.of.Super.Heroes.2023.BRRip.x264-ION10&tr=udp://tracker.slowcheetah.org:14760
 
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/playuri?uri=
