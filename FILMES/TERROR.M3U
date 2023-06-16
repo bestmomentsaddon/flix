@@ -15,8 +15,8 @@ plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:7451DCDED2AFE0C2
 #EXTINF:-1 tvg-logo="https://vacatorrent.com/poster/2023/04/cryptid-legendado-download-torrent-2023-dublado-dual-audio-bluray-1080p-720p-4k-hd.webp" , Cryptid
 plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:7219B1A98D303F872964FC7CE2F11832C293CDA7&dn=VEMTORRENT.COM.WEB-DL-1080P-LEGENDA-FIXA-MKV-2.16-GB.Cryptid.2022.1080p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
-#EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
-plugin://plugin.video.elementum/playuri?uri=
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNkYmE1NDYtMmI4Mi00YjU2LTkxZDEtMWI0ZDE4MTczZDRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg" , The Boogeyman
+plugin://plugin.video.elementum/playuri?uri=magnet:?xt=urn:btih:b7a5d2758753d5f981303496af3680fb0dfd9642
 
 #EXTINF:-1 tvg-logo="CAPA DO FILME" , NOME DO FILME
 plugin://plugin.video.elementum/playuri?uri=
